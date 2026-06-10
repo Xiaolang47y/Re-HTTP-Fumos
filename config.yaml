@@ -1,0 +1,421 @@
+font:
+  file: "Times New Roman.ttf"
+  title_size: 72
+  subtitle_size: 28
+
+image:
+  width: 600
+  inner_border: 3
+  outer_border: 2
+  side_margin: 20
+  top_margin: 20
+
+text:
+  gap_title: 0
+  gap_subtitle: 25
+  bottom_margin: 30
+
+memes:
+  - source_file: "100.jpg"
+    title: "100"
+    subtitle: "Continue"
+
+  - source_file: "101.jpg"
+    title: "101"
+    subtitle: "Switching Protocols"
+
+  - source_file: "102.jpg"
+    title: "102"
+    subtitle: "Processing"
+
+  - source_file: "103.jpg"
+    title: "103"
+    subtitle: "Early Hints"
+
+  - source_file: "200.jpg"
+    title: "200"
+    subtitle: "OK"
+
+  - source_file: "201.jpg"
+    title: "201"
+    subtitle: "Created"
+
+  - source_file: "202.jpg"
+    title: "202"
+    subtitle: "Accepted"
+
+  - source_file: "203.jpg"
+    title: "203"
+    subtitle: "Non-Authoritative Information"
+
+  - source_file: "204.jpg"
+    title: "204"
+    subtitle: "No Content"
+
+  - source_file: "205.jpg"
+    title: "205"
+    subtitle: "Reset Content"
+
+  - source_file: "206.jpg"
+    title: "206"
+    subtitle: "Partial Content"
+
+  - source_file: "207.jpg"
+    title: "207"
+    subtitle: "Multi-Status"
+
+  - source_file: "208.jpg"
+    title: "208"
+    subtitle: "Already Reported"
+
+  - source_file: "214.jpg"
+    title: "214"
+    subtitle: "Transformation Applied"
+
+  - source_file: "214_1.jpg"
+    title: "214"
+    subtitle: "Transformation Applied"
+
+  - source_file: "218.png"
+    title: "218"
+    subtitle: "This is fine"
+
+  - source_file: "226.jpg"
+    title: "226"
+    subtitle: "IM Used"
+
+  - source_file: "300.jpg"
+    title: "300"
+    subtitle: "Multiple Choices"
+
+  - source_file: "301.jpg"
+    title: "301"
+    subtitle: "Moved Permanently"
+
+  - source_file: "302.jpg"
+    title: "302"
+    subtitle: "Found"
+
+  - source_file: "303.jpg"
+    title: "303"
+    subtitle: "See Other"
+
+  - source_file: "304.jpg"
+    title: "304"
+    subtitle: "Not Modified"
+
+  - source_file: "305.jpg"
+    title: "305"
+    subtitle: "Use Proxy"
+
+  - source_file: "306.jpg"
+    title: "306"
+    subtitle: "Switch Proxy"
+
+  - source_file: "307.jpg"
+    title: "307"
+    subtitle: "Temporary Redirect"
+
+  - source_file: "308.jpg"
+    title: "308"
+    subtitle: "Permanent Redirect"
+
+  - source_file: "400.jpg"
+    title: "400"
+    subtitle: "Bad Request"
+
+  - source_file: "401.jpg"
+    title: "401"
+    subtitle: "Unauthorized"
+
+  - source_file: "402.jpg"
+    title: "402"
+    subtitle: "Payment Required"
+
+  - source_file: "403.jpg"
+    title: "403"
+    subtitle: "Forbidden"
+
+  - source_file: "403_1.jpg"
+    title: "403"
+    subtitle: "Forbidden"
+
+  - source_file: "404.jpg"
+    title: "404"
+    subtitle: "Not Found"
+
+  - source_file: "405.jpg"
+    title: "405"
+    subtitle: "Method Not Allowed"
+
+  - source_file: "406.jpg"
+    title: "406"
+    subtitle: "Not Acceptable"
+
+  - source_file: "407.jpg"
+    title: "407"
+    subtitle: "Proxy Authentication Required"
+
+  - source_file: "408.jpg"
+    title: "408"
+    subtitle: "Request Timeout"
+
+  - source_file: "409.jpg"
+    title: "409"
+    subtitle: "Conflict"
+
+  - source_file: "410.jpg"
+    title: "410"
+    subtitle: "Gone"
+
+  - source_file: "411.jpg"
+    title: "411"
+    subtitle: "Length Required"
+
+  - source_file: "412.jpg"
+    title: "412"
+    subtitle: "Precondition Failed"
+
+  - source_file: "413.jpg"
+    title: "413"
+    subtitle: "Payload Too Large"
+
+  - source_file: "414.jpg"
+    title: "414"
+    subtitle: "URI Too Long"
+
+  - source_file: "415.jpg"
+    title: "415"
+    subtitle: "Unsupported Media Type"
+
+  - source_file: "416.jpg"
+    title: "416"
+    subtitle: "Range Not Satisfiable"
+
+  - source_file: "417.jpg"
+    title: "417"
+    subtitle: "Expectation Failed"
+
+  - source_file: "418.jpg"
+    title: "418"
+    subtitle: "I'm a teapot"
+
+  - source_file: "418_1.jpg"
+    title: "418"
+    subtitle: "I'm a teapot"
+
+  - source_file: "419.jpg"
+    title: "419"
+    subtitle: "Page Expired"
+
+  - source_file: "420.jpg"
+    title: "420"
+    subtitle: "Enhance Your Calm"
+
+  - source_file: "421.jpg"
+    title: "421"
+    subtitle: "Misdirected Request"
+
+  - source_file: "422.jpg"
+    title: "422"
+    subtitle: "Unprocessable Entity"
+
+  - source_file: "423.jpg"
+    title: "423"
+    subtitle: "Locked"
+
+  - source_file: "424.jpg"
+    title: "424"
+    subtitle: "Failed Dependency"
+
+  - source_file: "425.jpg"
+    title: "425"
+    subtitle: "Too Early"
+
+  - source_file: "426.jpg"
+    title: "426"
+    subtitle: "Upgrade Required"
+
+  - source_file: "428.jpg"
+    title: "428"
+    subtitle: "Precondition Required"
+
+  - source_file: "429.jpg"
+    title: "429"
+    subtitle: "Too Many Requests"
+
+  - source_file: "430.png"
+    title: "430"
+    subtitle: "Security Rejection"
+
+  - source_file: "430_1.png"
+    title: "430"
+    subtitle: "Block"
+
+  - source_file: "431.jpg"
+    title: "431"
+    subtitle: "Request Header Fields Too Large"
+
+  - source_file: "440.jpg"
+    title: "440"
+    subtitle: "Login Time-out"
+
+  - source_file: "444.jpg"
+    title: "444"
+    subtitle: "No Response"
+
+  - source_file: "449.png"
+    title: "449"
+    subtitle: "Retry With"
+
+  - source_file: "450.jpg"
+    title: "450"
+    subtitle: "Blocked by Windows Parental Controls"
+
+  - source_file: "451.jpg"
+    title: "451"
+    subtitle: "Unavailable For Legal Reasons"
+
+  - source_file: "460.png"
+    title: "460"
+    subtitle: "Client closed connection prematurely"
+
+  - source_file: "463.png"
+    title: "463"
+    subtitle: "Too many forwarded IP addresses"
+
+  - source_file: "464.png"
+    title: "464"
+    subtitle: "Incompatible protocol"
+
+  - source_file: "493.png"
+    title: "493"
+    subtitle: "Unsupported Browser"
+
+  - source_file: "494.png"
+    title: "494"
+    subtitle: "Request header too large"
+
+  - source_file: "495.jpg"
+    title: "495"
+    subtitle: "SSL Certificate Error"
+
+  - source_file: "496.jpg"
+    title: "496"
+    subtitle: "SSL Certificate Required"
+
+  - source_file: "497.jpg"
+    title: "497"
+    subtitle: "HTTP Request Sent to HTTPS Port"
+
+  - source_file: "498.jpg"
+    title: "498"
+    subtitle: "Token Expired/Invalid"
+
+  - source_file: "499.jpg"
+    title: "499"
+    subtitle: "Client Closed Request"
+
+  - source_file: "500.jpg"
+    title: "500"
+    subtitle: "Internal Server Error"
+
+  - source_file: "501.jpg"
+    title: "501"
+    subtitle: "Not Implemented"
+
+  - source_file: "502.jpg"
+    title: "502"
+    subtitle: "Bad Gateway"
+
+  - source_file: "503.jpg"
+    title: "503"
+    subtitle: "Service Unavailable"
+
+  - source_file: "504.jpg"
+    title: "504"
+    subtitle: "Gateway Timeout"
+
+  - source_file: "505.jpg"
+    title: "505"
+    subtitle: "HTTP Version Not Supported"
+
+  - source_file: "505_1.jpg"
+    title: "505"
+    subtitle: "HTTP Version Not Supported"
+
+  - source_file: "506.jpg"
+    title: "506"
+    subtitle: "Variant Also Negotiates"
+
+  - source_file: "507.jpg"
+    title: "507"
+    subtitle: "Insufficient Storage"
+
+  - source_file: "508.jpg"
+    title: "508"
+    subtitle: "Loop Detected"
+
+  - source_file: "509.jpg"
+    title: "509"
+    subtitle: "Bandwidth Limit Exceeded"
+
+  - source_file: "510.jpg"
+    title: "510"
+    subtitle: "Not Extended"
+
+  - source_file: "511.jpg"
+    title: "511"
+    subtitle: "Network Authentication Required"
+
+  - source_file: "520.png"
+    title: "520"
+    subtitle: "Web Server Is Returning an Unknown Error"
+
+  - source_file: "521.jpg"
+    title: "521"
+    subtitle: "Web Server Is Down"
+
+  - source_file: "522.jpg"
+    title: "522"
+    subtitle: "Connection Timed Out"
+
+  - source_file: "523.jpg"
+    title: "523"
+    subtitle: "Origin Is Unreachable"
+
+  - source_file: "524.jpg"
+    title: "524"
+    subtitle: "A Timeout Occurred"
+
+  - source_file: "525.jpg"
+    title: "525"
+    subtitle: "SSL Handshake Failed"
+
+  - source_file: "526.png"
+    title: "526"
+    subtitle: "Invalid SSL Certificate"
+
+  - source_file: "527.png"
+    title: "527"
+    subtitle: "Railgun Listener to Origin"
+
+  - source_file: "529.png"
+    title: "529"
+    subtitle: "The Service Is Overloaded"
+
+  - source_file: "530.jpg"
+    title: "530"
+    subtitle: "Site Frozen"
+
+  - source_file: "598.png"
+    title: "598"
+    subtitle: "Network Read Timeout Error"
+
+  - source_file: "599.jpg"
+    title: "599"
+    subtitle: "Network Connect Timeout Error"
+
+  - source_file: "999.png"
+    title: "999"
+    subtitle: "Request Denied"
